@@ -18,12 +18,12 @@ body {
 }
 
 header {
-  width: 80rem;
+  max-width: 80rem;
   background-color: #1F2937;
 }
 
 section {
-  width: 80rem;
+  max-width: 80rem;
 }
 
 .title {
